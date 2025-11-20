@@ -1,4 +1,30 @@
+body{
+    background-color: rgb(255, 154, 2);
+}
+
 .title{
-    text-decoration: dotted;
-    text-decoration-color: orange;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(151, 228, 237);
+}
+
+.about_us{
+    padding: 2px;
+    background-color: rgb(151, 228, 237);
+}
+
+.offers{
+    padding: 2px;
+    background-color: rgb(151, 228, 237);
+}
+
+button{
+    font-weight: bold;
+    background-color: rgb(151, 228, 237);
+    border-radius: 4px;
+    border-color: rgb(80, 151, 159);
+}
+button:hover{
+    background-color: rgb(80, 151, 159);
+    border-color: rgb(151, 228, 237);
 }
