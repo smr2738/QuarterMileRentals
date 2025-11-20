@@ -1,5 +1,6 @@
 body{
     background-color: rgb(255, 154, 2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .title{
@@ -23,6 +24,7 @@ button{
     background-color: rgb(151, 228, 237);
     border-radius: 4px;
     border-color: rgb(80, 151, 159);
+    text-align: center;
 }
 button:hover{
     background-color: rgb(80, 151, 159);
