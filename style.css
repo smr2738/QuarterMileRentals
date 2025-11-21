@@ -93,14 +93,6 @@ button:hover{
     border-color: rgb(80, 151, 159);
     padding: 2px;
     text-align: center;
-    align-items: center;
-    max-width: fit-content;
-}
-
-.payment_disclaimer{
-    font-family: 'impact', sans-serif;
-    font-size: 20px;
-    font-style: italic;
 }
 
 .payment_form{
@@ -108,6 +100,4 @@ button:hover{
     flex-direction: column;
     align-items: center;
     padding: 20px;
-    max-width: 400px;
-    font-family: 'impact', sans-serif;
 }
