@@ -90,10 +90,16 @@ button:hover{
     background-color: rgb(151, 228, 237);
     padding: 2px;
     text-align: center;
+    font-family: 'Impact', sans-serif;
+    align-items: center;
 }
 
 .payment_form{
     display: flex;
     flex-direction: column;
     align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    max-width: 400px;
 }
