@@ -30,3 +30,8 @@ button:hover{
     background-color: rgb(80, 151, 159);
     border-color: rgb(151, 228, 237);
 }
+
+.rentals{
+    display:grid;
+    gap:20px;
+}
