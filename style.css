@@ -31,6 +31,19 @@ button:hover{
     border-color: rgb(151, 228, 237);
 }
 
+.rentals{
+    display:grid;
+}
+
 .description{
     font-weight: bold;
+}
+
+.cool_buttons{
+    font-weight: bold;
+    background-color: rgb(151, 228, 237);
+    border-radius: 4px;
+    border-color: rgb(80, 151, 159);
+    text-align: center;
+    font-size: 24px;
 }
