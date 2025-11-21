@@ -53,3 +53,9 @@ button:hover{
 .events{
     font-size: 36px;
 }
+
+.rentals{
+    background-color: rgb(151, 228, 237);
+    padding: 10px;
+    list-style-type: none;
+}
