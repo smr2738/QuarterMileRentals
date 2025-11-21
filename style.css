@@ -59,7 +59,28 @@ button:hover{
     padding: 2px;
 }
 
-.no_bullets{
+.rental_items{
     list-style-type: none;
     padding: 0;
+}
+
+.rental_item{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.rental_item img{
+    max-width: 150px;
+    border-radius: 4px;
+}
+
+.rental_item_info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
