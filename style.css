@@ -85,3 +85,15 @@ button:hover{
     flex-direction: column;
     justify-content: center;
 }
+
+.payment_page{
+    background-color: rgb(151, 228, 237);
+    padding: 2px;
+    text-align: center;
+}
+
+.payment_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
