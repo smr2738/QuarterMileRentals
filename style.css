@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 154, 2);
+    background-color: #ff9900;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -11,7 +11,7 @@ body{
 
 .about_us{
     padding: 2px;
-    background-color: rgb(151, 228, 237);
+    background-color: #ccffff;
 }
 
 .offers{
