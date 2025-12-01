@@ -95,18 +95,19 @@ button:hover{
     text-align: center;
 }
 
-.payment_form{
+.payment_form, .login_box{
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 20px;
 }
 
-.login_box{
-    display:flex;
+.returns{
+    display: flex;
     flex-direction: column;
     align-items: center;
     padding: 20px;
+    font-weight: bold;
 }
 
 .footer{
