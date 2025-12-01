@@ -101,3 +101,11 @@ button:hover{
     align-items: center;
     padding: 20px;
 }
+
+.login_box{
+    align-items: center;
+}
+
+.footer{
+    align-items: center;
+}
